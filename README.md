@@ -1,6 +1,4 @@
 # Protograph_EXIT_chart
-Simple Matlab PEXIT-chart's implementation for an estimation of LDPC codes iterative decoding treshold using Mutual Information based on article
+The GitHub repository includes a simple MATLAB implementation of PEXIT charts for estimating the iterative decoding threshold of Low-Density Parity-Check (LDPC) codes based on mutual information. This implementation is based on the article "Protograph LDPC Codes Design Based on EXIT Analysis" by G. Liva and M. Chiani, published in the IEEE Global Telecommunications Conference in 2007.
 
-
-G. Liva and M. Chiani, "Protograph LDPC Codes Design Based on EXIT Analysis," IEEE GLOBECOM 2007 - IEEE Global Telecommunications Conference, Washington, DC, 2007, pp. 3250-3254.
-
+The repository contains the necessary code to implement PEXIT charts and estimate the iterative decoding threshold of LDPC codes.
